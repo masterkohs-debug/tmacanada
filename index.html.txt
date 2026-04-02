@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TMA Canada | Taekwondo Masters Academy Mississauga</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="tma-logo.jpg" alt="TMA Canada Logo" style="height: 50px;">
+        </div>
+        <div class="links">
+            <a href="#about">About</a>
+            <a href="#programs">Programs</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1 class="fade-in">Fusion of <span>Traditional</span> Excellence and <span>Modern</span> Instruction.</h1>
+        <p class="subtitle">Focus • Discipline • Integrity • Leadership</p>
+    </header>
+
+    <section id="about" class="content-split">
+        <div class="text">
+            <h2>The TMA Difference</h2>
+            <p>At Taekwondo Masters Academy, we don't just teach kicks and strikes. Our mission is to instill resilience, honesty, and leadership in every student. Whether you are starting as a "L'il Tiger" or an adult, we provide a path to physical and mental mastery.</p>
+        </div>
+        <div class="image-box">
+            <div class="placeholder-bg"></div>
+        </div>
+    </section>
+
+    <section id="programs" class="program-grid">
+        <div class="program-card">
+            <h3>L'il Tigers</h3>
+            <p>Ages 3-6. Building coordination and focus.</p>
+        </div>
+        <div class="program-card">
+            <h3>Youth & Adult</h3>
+            <p>Traditional martial arts for all skill levels.</p>
+        </div>
+        <div class="program-card">
+            <h3>After School</h3>
+            <p>Includes shuttle service and dedicated training.</p>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="footer-content">
+            <h3>TMA Canada - Mississauga</h3>
+            <p>3087 Winston Churchill Blvd, Mississauga, ON L5L 2V8</p>
+            <p>Tel: 905-997-8622 | infotmacanada@gmail.com</p>
+        </div>
+    </footer>
+
+</body>
+</html>
